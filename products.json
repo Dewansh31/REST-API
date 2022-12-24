@@ -1,0 +1,32 @@
+[
+    {
+        "name":"iphone",
+        "price":168,
+        "featured":true,
+        "company":"apple"
+    },
+    {
+        "name":"iphone2",
+        "price":168,
+        "featured":true,
+        "company":"apple"
+    },
+    {
+        "name":"iphone3",
+        "price":168,
+        "featured":true,
+        "company":"apple"
+    },
+    {
+        "name":"iphone4",
+        "price":168,
+        "featured":true,
+        "company":"apple"
+    },
+    {
+        "name":"iphone5",
+        "price":168,
+        "featured":true,
+        "company":"apple"
+    }
+]
